@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 😊 I'm Atish Mahali, an eager learner of React.js, Node.js, HTML, CSS, JavaScript, C++, and MySQL. 🚀 Coding with enthusiasm! 💻</h2>
+<h2 align="left">Hi there! 😊 I'm Atish Mahali, an eager learner of Python React.js, Node.js, HTML, CSS, JavaScript, C++, and MySQL. 🚀 Coding with enthusiasm! 💻</h2>
 
 ###
 
