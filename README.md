@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there! 😊 I'm Atish Mahali, an eager learner of Python, React.js, Node.js, HTML, CSS, JavaScript, C++, and MySQL. 🚀 Coding with enthusiasm! 💻<br>
-
+Revving up code and Machine Learning—life’s always in high gear. 🏎️💡
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iatishmahali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atishmahali29/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@IAtishMahali) 
